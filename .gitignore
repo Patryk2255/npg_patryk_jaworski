@@ -1,1 +1,6 @@
 dokument_2.txt
+log
+build
+*.pdf
+*.tmp
+*.log
